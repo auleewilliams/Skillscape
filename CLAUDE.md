@@ -8,7 +8,11 @@ Skillscape is skills management software. The repository is in early development
 
 ## Tech Stack
 
-The `.gitignore` is configured for Visual Studio / .NET, suggesting a C# or .NET-based implementation is planned. Confirm with the project owner before making technology decisions.
+- **Language**: C# / .NET 10
+- **Framework**: ASP.NET Core 10, Blazor Server
+- **Component Library**: MudBlazor
+- **Database**: SQLite via Entity Framework Core 10
+- **Testing**: xUnit, bUnit, Moq
 
 ## Commands
 
